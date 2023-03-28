@@ -146,7 +146,7 @@ font-size: xx-large;
 " type="audio/mp3">
     </audio>
     <hr>
-    <img src=""></img>
+    <img src="https://media.giphy.com/media/3ohfFMZ0CaZus3Jqyk/giphy.gif"></img>
     <marquee behavior="alternate" direction="right"><b>Khaike Paan Banaras Wala</b></marquee>
     
 </body>
