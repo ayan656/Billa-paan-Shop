@@ -27,10 +27,11 @@ background-color: rgb(14, 101, 3);
 }
 body{
     background-image: url(![images](https://user-images.githubusercontent.com/129167103/228220101-899e8663-f9d7-42db-8a4e-819979b41c12.jpg)
-);
+;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    background-color: black;
 }
 .city{
     text-align: center;
@@ -55,7 +56,7 @@ a:hover, a:active {
 background-color: rgb(0, 64, 255);
 }
 .town{
-color: black;
+color: white;
 text-align: center;
 font-size: xx-large;
 }
